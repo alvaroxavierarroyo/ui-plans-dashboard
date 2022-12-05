@@ -1,4 +1,4 @@
-# UI Plans Dashboard 💲
+# UI Plans Dashboard 💲 [REACT / TAILWIND CSS]
 
 This dashboard allows the user to view 3 plans offered by the company  each one with its disadvantages and advantages so that the user can buy the one likes the best.
 
